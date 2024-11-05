@@ -27,3 +27,5 @@ yarn-error.log*
 # test 
 TEST_API_KEY.txt
 
+README.md
+
