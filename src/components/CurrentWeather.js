@@ -1,4 +1,4 @@
-import { getCurrentWeather } from "../api";
+// import { getCurrentWeather } from "../api";
 import WeatherIcon from "./WeatherIcon";
 import "../styles/components/CurrentWeather.scss";
 import { useContext } from "react";
